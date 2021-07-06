@@ -1,6 +1,3 @@
-# Python For Offensive PenTest: A Complete Practical Course - All rights reserved 
-# Follow me on LinkedIn  https://jo.linkedin.com/in/python2
-
 # pyHook download link
 # http://sourceforge.net/projects/pyhook/files/pyhook/1.5.1/
 
