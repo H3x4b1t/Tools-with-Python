@@ -1,6 +1,3 @@
-# Python For Offensive PenTest: A Complete Practical Course - All rights reserved 
-# Follow me on LinkedIn  https://jo.linkedin.com/in/python2
-
 import string # The random and string libraries are used to generate a random string with flexible criteria
 import random
 
